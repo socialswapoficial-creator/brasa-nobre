@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brasa-nobre-restaurante.vendasalcapone435.chatgpt.site/sitemap.xml

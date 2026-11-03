@@ -1,3 +1,3 @@
 # Brasa Nobre
 
-Site estático. Sirva a pasta `dist` como raiz para abrir o site e o cardápio.
+Versão estática do site. Use `dist` como raiz da hospedagem. A página inicial é `index.html` e o cardápio fica em `cardapio.html`.
